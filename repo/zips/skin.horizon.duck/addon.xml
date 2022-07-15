@@ -17,8 +17,9 @@
         <res aspect="16:9" default="true" folder="1080i" height="1080" width="1920" />
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Arctic Horizon themed for Duck Pirate build.</summary>
-        <description lang="en">Jurialmunkey Arctic Horizon themed for Duck Pirate build.</description>
+        <summary lang="en">Duck Pirate themed Arctic Horizon.</summary>
+        <description lang="en">Jurialmunkey Arctic Horizon themed for Duck Pirate build.
+		Check out the original and other great skins on the jurialmunkey repository.</description>
         <platform>all</platform>
         <license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
         <forum />
