@@ -1,0 +1,14 @@
+<builds>
+
+  <build>
+	<name>Duck Pirate Build</name>
+	<version>1.0</version>
+	<url>https://www.dropbox.com/s/7dqzlzr6fltwu1t/DuckPirateBuild.1.0.zip?dl=1</url>
+	<icon>https://duck-pirate.000webhostapp.com/Wizard/icon.png</icon>
+	<fanart>https://duck-pirate.000webhostapp.com/Wizard/fanart.jpg</fanart>
+	<description>Duck Pirate Build</description>
+  </build>
+  
+
+  
+</builds>
