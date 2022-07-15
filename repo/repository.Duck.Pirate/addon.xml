@@ -2,9 +2,9 @@
 <addon id="repository.Duck.Pirate" name="[COLOR magenta][B]Duck Pirate[/B][/COLOR] Repository" version="1.0" provider-name="SHINKS">
     <extension point="xbmc.addon.repository" name="repository.Duck.Pirate">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/sh1nks/Duck.Pirate/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/sh1nks/Duck.Pirate/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/sh1nks/Duck.Pirate/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/SH1NKS/Duck.Pirate/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/SH1NKS/Duck.Pirate/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/SH1NKS/Duck.Pirate/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
