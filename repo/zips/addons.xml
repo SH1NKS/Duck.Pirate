@@ -68,7 +68,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>[COLOR magenta]Duck.Pirate[/COLOR]Wizard</summary>
+        <summary>[COLOR magenta]Duck.Pirate[/COLOR]</summary>
         <description>The official home of [COLOR magenta][B]Duck.Pirate[/B][/COLOR]</description>
         <disclaimer />
         <platform>all</platform>
