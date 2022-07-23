@@ -7,7 +7,7 @@
 		<setting id="firstrun" type="bool" label="First Run" visible="false"/>
 		<setting id="firstrunNotify" type="bool" label="First Run" visible="false"/>
 		<setting id="notifyversion" type="text" label="Notify Version: " visible="false" default="0"/>
-		<setting id="autoclearpackages" type="bool" label="30057" visible="true" default = "false" />
+		<setting id="autoclearpackages" type="bool" label="30057" visible="true" default = "true" />
 		<setting id="update_passed" type="bool" label="Disable Update Notification" visible="true" default="true"/>
 		<setting label="Backup Folder" type="folder" id="backupfolder" source="" option="writeable" default="special://home/My_Builds" />
 	</category>
