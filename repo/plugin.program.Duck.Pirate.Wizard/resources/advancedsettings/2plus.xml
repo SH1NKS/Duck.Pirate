@@ -1,7 +1,7 @@
 <advancedsettings>
   <cache>
     <buffermode>0</buffermode>
-    <memorysize>348651520</memorysize>
+    <memorysize>248651520</memorysize>
     <readfactor>20</readfactor>
   </cache>
   <splash>false</splash>
