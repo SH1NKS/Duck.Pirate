@@ -32,8 +32,6 @@
 	<usedimonpause>false</usedimonpause>
   </screensaver>
   <videoplayer>
-    <usedisplayasclock>true</usedisplayasclock>
-	<adjustrefreshrate>0</adjustrefreshrate>
     <seeksteps>-600,-60,-30,30,60,600</seeksteps>
 	<seekdelay>750</seekdelay>
     <stereoscopicplaybackmode>0</stereoscopicplaybackmode>
@@ -94,9 +92,6 @@
 	<showunwatchedplots>0,1,2</showunwatchedplots>
   </videolibrary>
   <videoscreen>
-    <whitelist></whitelist>
-	<whitelistpulldown>false</whitelistpulldown>
-	<whitelistdoublerefreshrate>false</whitelistdoublerefreshrate>
 	<stereoscopicmode>0</stereoscopicmode>
 	<preferedstereoscopicmode>100</preferedstereoscopicmode>
 	<delayrefreshchange>3</delayrefreshchange>
